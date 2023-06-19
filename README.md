@@ -1,11 +1,11 @@
-##Ecommerce Application Repository
+# Ecommerce Application Repository
 
 
-#**Description**
+## **Description**
 
 This repository contains the source code and project documentation for an Ecommerce application developed using Spring Boot and Angular. The application follows a multi-service architecture based on event-driven design principles, promoting loose coupling and scalability.
 
-Key Features:
+## **Key Features:**
 
 Implementing a robust and scalable Ecommerce application using Spring Boot and Angular.
 Active participation in the development process, contributing to the application's functionality and user experience.
